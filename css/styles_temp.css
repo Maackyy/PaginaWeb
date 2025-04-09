@@ -1,0 +1,25 @@
+header{
+background: lightblue;
+}
+
+main {
+    background: lightseagreen;
+}
+
+footer{
+ background: lightgreen;
+}
+
+
+.container{
+    background: lightcoral;
+}
+
+
+header .menu{
+    background: red;
+}
+
+header .container-text{
+  background: lightcyan;
+}
